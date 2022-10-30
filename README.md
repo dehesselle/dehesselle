@@ -1,27 +1,19 @@
-<!-- markdownlint-disable-next-line MD041 -->
-## This is me
+# This is me
 
-From COBOL to SAS 9.x, from z/OS to Linux - professionally I'm mostly a developer and administrator for statistics/BI systems. In my spare time I come here (i.e. [GitHub](https://github.com/dehesselle), [GitLab](https://gitlab.com/dehesselle)) to do something else entirely :)
+## Introduction
 
-I also like synthesizers, DAWs, DJing, ... but most of my time I find myself hacking at some project. My open source activities revolve around [Inkscape](https://inkscape.org) and building/packaging GTK apps on macOS to a large extent.
+Ever since I got my first computer at the age of 13 it became clear to me that from now on "doing something with computers" was going to accompany me for the rest of my life. Consequently, I've turned my hobby into a career, but it's also still my hobby where I can branch out and keep exploring - and that is what you can see me doing here on [GitHub](https://github.com/dehesselle) and [GitLab](https://gitlab.com/dehesselle).
 
-Chocolate is ♥️.
+## Career
 
-<!--
-**dehesselle/dehesselle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've spent most of my career in the field of business intelligence in the insurance sector. My journey began 1999 as software developer learning COBOL on an IBM mainframe and later moving on to becoming a SAS developer and SAS platform administrator for z/OS, Linux and Windows. Most of my professional life with SAS ended in 2019 with the completion of a replatforming project to move SAS off our mainframe to Linux. Today my employer calls me "DevOps engineer" and I'm part of a small agile team that develops and moves services to the cloud (AWS).
 
-Here are some ideas to get you started:
+## Open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Being a volunteer developer engaging with various open-source projects is my way of giving back to the community and making an impact with my hobby. My activities revolve around [Inkscape](https://inkscape.org) as the biggest project where I maintain the macOS release and also some smaller ones like [Zim](https://zim-wiki.org) (with more to follow). Building and packaging GTK-based apps on macOS is my specialty.
+
+I'd actually love to turn that into my actual career (which open-source developer doesn't!), so... just saying... if you're a company... [I'm here 📫](mailto:dehesselle@web.de)
 
 ### special thanks
 
-Thank you [JetBrains](https://www.jetbrains.com) for providing me product subscriptions to support my open source work.
+Thank you [JetBrains](https://www.jetbrains.com) for providing me product subscriptions to support my open-source work.
