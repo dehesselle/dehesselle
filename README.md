@@ -1,18 +1,14 @@
-# This is me
+# That's me
 
-## Introduction
+I'm René 👋, data engineer by day, open-source developer by night.
 
-Ever since I got my first computer at the age of 13 it became clear to me that from now on "doing something with computers" was going to accompany me for the rest of my life. Consequently, I've turned my hobby into a career, but it's also still my hobby where I can branch out and keep exploring - and that is what you can see me doing here on [GitHub](https://github.com/dehesselle) and [GitLab](https://gitlab.com/dehesselle).
+## Once upon a time
 
-## Career
+... I started looking into building and packaging [Inkscape](https://inkscape.org) 1.0 for macOS. I wanted to help, put my skills to good use and then see what happens. I initially estimated that this engagement would keep me busy and interested for 6 months, I didn't have any plans beyond that. Which is a good thing, because life happens while you're making plans, and as it turns out, this was the beginning of my open-source career.
 
-I've spent most of my career in the field of business intelligence in the insurance sector. My journey began 1999 as software developer learning COBOL on an IBM mainframe and later moving on to becoming a SAS developer and SAS platform administrator for z/OS, Linux and Windows. Most of my professional life with SAS ended in 2019 with the completion of a replatforming project to move SAS off our mainframe to Linux. Today my employer calls me "DevOps engineer" and I'm part of a small agile team that develops and moves services to the cloud (AWS).
+## Today
 
-## Open source
-
-Being a volunteer developer engaging with various open-source projects is my way of giving back to the community and making an impact with my hobby. My activities revolve around [Inkscape](https://inkscape.org) as the biggest project where I maintain the macOS release and also some smaller ones like [Zim](https://zim-wiki.org) (with more to follow). Building and packaging GTK-based apps on macOS is my specialty.
-
-I'd actually love to turn that into my actual career (which open-source developer doesn't!), so... just saying... if you're a company... [I'm here 📫](mailto:dehesselle@web.de)
+... I'm building and packaging several GTK-based applications for macOS as this has become my specialty. I've taken on more responsibilities within the Inkscape project and joined their leadership committee. And I engage with upstream projects, e.g. doing macOS CI work for GNOME. Still not making plans though, I'm not running out of things to do anytime soon 😉.
 
 ### special thanks
 
