@@ -1,6 +1,6 @@
 # That's me
 
-I'm René 👋, data engineer by day, open-source developer by night.
+I'm René 👋, data engineer by day, open-source developer (on [GitHub](https://github.com/dehesselle), [GitLab](https://gitlab.com/dehesselle)) by night.
 
 ## Once upon a time
 
