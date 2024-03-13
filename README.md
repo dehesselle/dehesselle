@@ -10,6 +10,3 @@ I'm René 👋, data engineer by day, open-source developer (on [GitHub](https:/
 
 ... I'm building and packaging several GTK-based applications for macOS as this has become my specialty. I've taken on more responsibilities within the Inkscape project and joined their leadership committee. And I engage with upstream projects, e.g. doing macOS CI work for GNOME. Still not making plans though, I'm not running out of things to do anytime soon 😉.
 
-### special thanks
-
-Thank you [JetBrains](https://www.jetbrains.com) for providing me product subscriptions to support my open-source work.
